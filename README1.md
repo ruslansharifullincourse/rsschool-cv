@@ -1,1 +1,1 @@
-https://ruslansharifullincourse.github.io/rsschool-cv/cv
+https://github.com/ruslansharifullincourse/rsschool-cv.git
